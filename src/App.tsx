@@ -35,7 +35,7 @@ function App() {
             EspaçoBuddy: O futuro da alimentação pet conectada. Rotinas programáveis, monitoramento remoto e a garantia
             de que seu amigo nunca ficará com fome.
           </p>
-          <button>Quero ser avisado sobre novidades</button>
+          <button>Baixe aqui</button>
         </div>
         <div className="hero-image">
           <img src={img2} alt="Cachorros com comida" />
